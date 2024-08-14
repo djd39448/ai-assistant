@@ -29,3 +29,8 @@ class Bot:
 if __name__ == '__main__':
     bot = Bot()
     bot.run()
+
+# User details
+user_email = 'ceoagentzero@gmail.com'
+user_name = 'Dave Dobbins'
+user_password = 'Future2024!'
